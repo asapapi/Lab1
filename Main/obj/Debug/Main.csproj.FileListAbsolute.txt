@@ -1,0 +1,6 @@
+/Users/Asahi/RiderProjects/Main/Main/bin/Debug/Main.exe
+/Users/Asahi/RiderProjects/Main/Main/bin/Debug/Main.pdb
+/Users/Asahi/RiderProjects/Main/Main/obj/Debug/Main.csprojAssemblyReference.cache
+/Users/Asahi/RiderProjects/Main/Main/obj/Debug/Main.csproj.CoreCompileInputs.cache
+/Users/Asahi/RiderProjects/Main/Main/obj/Debug/Main.exe
+/Users/Asahi/RiderProjects/Main/Main/obj/Debug/Main.pdb
