@@ -4,3 +4,10 @@
 /Users/Asahi/RiderProjects/Main/Main/obj/Debug/Main.csproj.CoreCompileInputs.cache
 /Users/Asahi/RiderProjects/Main/Main/obj/Debug/Main.exe
 /Users/Asahi/RiderProjects/Main/Main/obj/Debug/Main.pdb
+C:\Users\mojic\Source\Repos\Lab1\Main\bin\Debug\Main.exe.config
+C:\Users\mojic\Source\Repos\Lab1\Main\bin\Debug\Main.exe
+C:\Users\mojic\Source\Repos\Lab1\Main\bin\Debug\Main.pdb
+C:\Users\mojic\Source\Repos\Lab1\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\mojic\Source\Repos\Lab1\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\mojic\Source\Repos\Lab1\Main\obj\Debug\Main.exe
+C:\Users\mojic\Source\Repos\Lab1\Main\obj\Debug\Main.pdb
